@@ -1,6 +1,6 @@
 # js-testing-introduction
 
-`This is a repo where trying to study and understand the what, why and how of Test Driven Development.`
+`This is a repo where i am trying to study and understand the what, why and how of Test Driven Development.`
 
 I am testing the behaviour of the application and my understanding of how the three stages of testing works by implemention of javascript testing - unit testing, integration testing, and end-to-end testing.
 
